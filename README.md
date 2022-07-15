@@ -1,10 +1,7 @@
 
 
 ### Hello  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm moe chan myae, a full-time full-stack freelance web developer 👨‍💻 working remotely since 2020 🚀</div>  
   
