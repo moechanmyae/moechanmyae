@@ -4,8 +4,8 @@
 <hr>
 
 ### Main Language
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
-    <img src="images/js.png" width="70" align="left">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
+    <img src="images/js.png" width="70" align="left" style="padding:20px">
     <img src="images/php.png" width="70"align="left" style="padding:20px" height="40">
 </div>
 <br>
@@ -14,7 +14,7 @@
 <hr>
 
 ### Frontend Development
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
     <img src="images/html.png" width="60" height="65" align="left" style="padding:20px">
     <img src="images/css.png" width="130" height="74" align="left"
     style="padding:20px">
@@ -22,6 +22,7 @@
     <img src="images/sass.png" width="70" align="left" height="56" style="padding:20px">
     <img src="images/vuejs.png" width="150" align="left"height="100" style="padding:20px">
 </div>
+<br>
 <br>
 <br>
 <br>
