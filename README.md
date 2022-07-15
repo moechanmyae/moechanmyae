@@ -14,13 +14,12 @@
 <hr>
 
 ### Frontend Development
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-    <img src="images/html.png" width="160" height="120" align="left">
-    <img src="images/css.png" width="160" height="80" align="left">
-    <img src="img/bootstrap.png" width="70" align="left" style="padding:20px" height="70">
-    <img src="img/sass.png" width="70" align="left" style="padding:20px" height="70">
-    <img src="img/tailwind.png" width="70" align="left" style="padding:20px" height="70">
-    <img src="img/vuejs.png" width="70" align="left" style="padding:20px" height="70">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
+    <img src="images/html.png" width="130" height="110" align="left">
+    <img src="images/css.png" width="90" height="63" align="left">
+    <img src="images/bootstrap.png" width="70" align="left" height="70">
+    <img src="images/sass.png" width="70" align="left" height="50">
+    <img src="images/vuejs.png" width="90" align="left"height="90">
 </div>
 <br>
 <br>
