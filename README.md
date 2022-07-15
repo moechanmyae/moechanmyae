@@ -14,7 +14,7 @@
 <hr>
 
 ### Frontend Development
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
     <img src="images/html.png" width="60" height="65" align="left">
     <img src="images/css.png" width="130" height="74" align="left">
     <img src="images/bootstrap.png" width="70" align="left" height="80">
