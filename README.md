@@ -4,11 +4,6 @@
 ### <div align="center">I'm moe chan myae, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 - 🔭 I’m passionate and communicate web developer  
   
 
