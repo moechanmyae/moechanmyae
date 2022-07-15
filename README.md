@@ -5,8 +5,8 @@
 
 ### Main Language
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
-    <img src="images/js.png" width="100" align="left">
-    <img src="images/php.png" width="100"align="left" style="padding:20px" height="55">
+    <img src="images/js.png" width="70" align="left">
+    <img src="images/php.png" width="70"align="left" style="padding:20px" height="40">
 </div>
 <br>
 <br>
@@ -15,11 +15,12 @@
 
 ### Frontend Development
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
-    <img src="images/html.png" width="130" height="110" align="left">
-    <img src="images/css.png" width="90" height="63" align="left">
-    <img src="images/bootstrap.png" width="70" align="left" height="70">
-    <img src="images/sass.png" width="70" align="left" height="50">
-    <img src="images/vuejs.png" width="90" align="left"height="90">
+    <img src="images/html.png" width="60" height="65" align="left" style="padding:20px">
+    <img src="images/css.png" width="130" height="74" align="left"
+    style="padding:20px">
+    <img src="images/bootstrap.png" width="70" align="left" height="100" style="padding:20px">
+    <img src="images/sass.png" width="70" align="left" height="56" style="padding:20px">
+    <img src="images/vuejs.png" width="150" align="left"height="100" style="padding:20px">
 </div>
 <br>
 <br>
