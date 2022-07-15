@@ -15,8 +15,8 @@
 
 ### Frontend Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-    <img src="images/html.png" width="160" height="120" align="left" style="padding:20px">
-    <img src="images/css.png" width="160" height="80" align="left" style="padding:20px">
+    <img src="images/html.png" width="160" height="120" align="left">
+    <img src="images/css.png" width="160" height="80" align="left">
     <img src="img/bootstrap.png" width="70" align="left" style="padding:20px" height="70">
     <img src="img/sass.png" width="70" align="left" style="padding:20px" height="70">
     <img src="img/tailwind.png" width="70" align="left" style="padding:20px" height="70">
