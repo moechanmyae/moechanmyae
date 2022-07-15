@@ -5,8 +5,8 @@
 
 ### Main Language
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-start;">
-    <img src="img/js.png" width="100" align="left" style = "padding:20px">
-    <img src="img/php.png" width="100"align="left" style="padding:20px" height="55">
+    <img src="images/js.png" width="100" align="left">
+    <img src="images/php.png" width="100"align="left" style="padding:20px" height="55">
 </div>
 <br>
 <br>
